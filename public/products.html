@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Products | Prime Data Intelligence</title>
+  <meta name="description" content="Explore the Prime Data Intelligence product catalog: guides, briefs, playbooks, toolkits, and curated signals.">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="/">
+        <img src="/assets/images/logo-white.jpg" alt="Prime Data Intelligence logo">
+        <div class="brand-text"><strong>Prime Data Intelligence</strong><span>Conscious information technology</span></div>
+      </a>
+      <nav class="nav-links">
+        <a href="/">Home</a>
+        <a class="active" href="/products.html">Products</a>
+        <a href="/insights.html">Insights</a>
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <span class="kicker">Product architecture</span>
+        <h1>Structured digital products for a stronger, clearer online brand.</h1>
+        <p>
+          The Prime catalog is organized to feel premium and expandable. Each line serves a distinct function:
+          foundational understanding, current-topic awareness, practical implementation, specialist depth, and recurring signal.
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container grid-3">
+        <article class="card"><span class="badge">Prime Guide</span><h3>Foundational clarity</h3><p>Entry products that explain the subject well and position the brand with authority.</p></article>
+        <article class="card"><span class="badge">Prime Brief</span><h3>Focused, current topics</h3><p>Shorter digital products for sharp, timely, high-value awareness.</p></article>
+        <article class="card"><span class="badge">Prime Playbook / Toolkit / Signal</span><h3>Practical and scalable</h3><p>Operational products, specialist resources, and recurring signals for deeper engagement.</p></article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-title">
+          <div><h2>Current catalog</h2></div>
+          <p>All purchase links are generic placeholders by design, ready to be replaced with the official Hotmart URLs later.</p>
+        </div>
+        <div id="all-products" class="products-grid"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container callout">
+        <span class="kicker">Naming convention</span>
+        <div class="table-like">
+          <div class="table-row"><div><strong>Brand</strong><span class="muted">Prime Data Intelligence</span></div><span class="badge">Official</span><span>Use consistently</span></div>
+          <div class="table-row"><div><strong>Repository</strong><span class="muted">prime-data-intelligence</span></div><span class="badge">GitHub</span><span>Lowercase, hyphenated</span></div>
+          <div class="table-row"><div><strong>Worker name</strong><span class="muted">prime-data-intelligence</span></div><span class="badge">Cloudflare</span><span>Match repo if possible</span></div>
+          <div class="table-row"><div><strong>Product IDs</strong><span class="muted">PDI-GUIDE-001, PDI-BRIEF-001, PDI-PLAYBOOK-001</span></div><span class="badge">Internal</span><span>Stable for catalog and tracking</span></div>
+          <div class="table-row"><div><strong>Slugs</strong><span class="muted">prime-guide-conscious-it-essentials</span></div><span class="badge">URL-ready</span><span>Lowercase, hyphenated</span></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">© 2026 Prime Data Intelligence. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  <script>PrimeApp.initProducts('#all-products');</script>
+</body>
+</html>
