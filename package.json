@@ -1,0 +1,14 @@
+{
+  "name": "prime-data-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prime Data Intelligence brand site and digital product platform on Cloudflare Workers.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.12.0"
+  }
+}
