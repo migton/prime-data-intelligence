@@ -1,0 +1,116 @@
+[
+  {
+    "id": "PDI-GUIDE-001",
+    "slug": "prime-guide-conscious-it-essentials",
+    "series": "Prime Guide",
+    "title": "Prime Guide — Conscious IT Essentials",
+    "subtitle": "A clear starting point for modern professionals navigating digital systems, risk, AI, and cyber awareness.",
+    "price": "€9",
+    "badge": "Foundational",
+    "category": "Guide",
+    "delivery": "Digital download",
+    "url": "https://hotmart.example.com/prime-guide-conscious-it-essentials",
+    "cover": "/assets/images/logo-black.jpg",
+    "summary": "Understand what really matters in modern information technology without noise, hype, or technical overload.",
+    "outcomes": [
+      "Understand the pillars of conscious information technology",
+      "See where cloud, AI, security, and governance connect",
+      "Build sharper digital awareness for work and decision-making"
+    ]
+  },
+  {
+    "id": "PDI-BRIEF-001",
+    "slug": "prime-brief-ai-at-work-safe-and-responsible",
+    "series": "Prime Brief",
+    "title": "Prime Brief — AI at Work, Safe and Responsible",
+    "subtitle": "A practical guide to using AI productively while reducing data leakage, weak governance, and avoidable risk.",
+    "price": "€12",
+    "badge": "Current Topic",
+    "category": "Brief",
+    "delivery": "Digital download",
+    "url": "https://hotmart.example.com/prime-brief-ai-at-work-safe-and-responsible",
+    "cover": "/assets/images/logo-white.jpg",
+    "summary": "Help teams and professionals understand how to adopt AI with clarity, discipline, and safer working habits.",
+    "outcomes": [
+      "Recognize the real workplace risks of public AI tools",
+      "Use safer prompting practices and data boundaries",
+      "Improve awareness without turning the topic into fear"
+    ]
+  },
+  {
+    "id": "PDI-PLAYBOOK-001",
+    "slug": "prime-playbook-small-business-cyber-hygiene",
+    "series": "Prime Playbook",
+    "title": "Prime Playbook — Small Business Cyber Hygiene",
+    "subtitle": "A practical baseline for organizations that want better security habits, stronger resilience, and fewer avoidable mistakes.",
+    "price": "€19",
+    "badge": "Practical",
+    "category": "Playbook",
+    "delivery": "Digital download",
+    "url": "https://hotmart.example.com/prime-playbook-small-business-cyber-hygiene",
+    "cover": "/assets/images/logo-black.jpg",
+    "summary": "A direct operational playbook covering the basics every modern organization should already have in place.",
+    "outcomes": [
+      "Apply a clean security baseline for everyday operations",
+      "Reduce human and configuration risk in common tools",
+      "Create a stronger culture of digital responsibility"
+    ]
+  },
+  {
+    "id": "PDI-BRIEF-002",
+    "slug": "prime-brief-digital-risk-awareness-for-leaders",
+    "series": "Prime Brief",
+    "title": "Prime Brief — Digital Risk Awareness for Leaders",
+    "subtitle": "An executive-friendly product for understanding cyber, data, and operational risk without needing deep technical knowledge.",
+    "price": "€14",
+    "badge": "Executive",
+    "category": "Brief",
+    "delivery": "Digital download",
+    "url": "https://hotmart.example.com/prime-brief-digital-risk-awareness-for-leaders",
+    "cover": "/assets/images/logo-white.jpg",
+    "summary": "A sharp overview designed for decision-makers who need practical clarity, not jargon.",
+    "outcomes": [
+      "Understand what leaders should really watch in digital risk",
+      "Connect cyber exposure with operational and reputational impact",
+      "Improve confidence in strategic conversations and decisions"
+    ]
+  },
+  {
+    "id": "PDI-TOOLKIT-001",
+    "slug": "prime-toolkit-microsoft-365-security-baseline",
+    "series": "Prime Toolkit",
+    "title": "Prime Toolkit — Microsoft 365 Security Baseline",
+    "subtitle": "A focused product for organizations that want to improve their Microsoft 365 posture with a clearer, more responsible baseline.",
+    "price": "€24",
+    "badge": "Specialist",
+    "category": "Toolkit",
+    "delivery": "Digital download",
+    "url": "https://hotmart.example.com/prime-toolkit-microsoft-365-security-baseline",
+    "cover": "/assets/images/logo-black.jpg",
+    "summary": "A practical reference for Microsoft 365 security essentials, built for teams that want actionable direction.",
+    "outcomes": [
+      "See the baseline controls that usually matter first",
+      "Support stronger identity and email security decisions",
+      "Create a more structured path to improvement"
+    ]
+  },
+  {
+    "id": "PDI-SIGNAL-001",
+    "slug": "prime-signal-conscious-tech-weekly",
+    "series": "Prime Signal",
+    "title": "Prime Signal — Conscious Tech Weekly",
+    "subtitle": "A recurring intelligence product concept for curated updates on digital risk, AI, cyber trends, and practical IT awareness.",
+    "price": "€7 / month",
+    "badge": "Subscription",
+    "category": "Signal",
+    "delivery": "Recurring digital access",
+    "url": "https://hotmart.example.com/prime-signal-conscious-tech-weekly",
+    "cover": "/assets/images/logo-white.jpg",
+    "summary": "A cleaner way to stay informed without doomscrolling, vendor noise, or low-value updates.",
+    "outcomes": [
+      "Follow meaningful digital developments with context",
+      "Cut through hype and focus on what matters",
+      "Keep awareness active through a consistent signal"
+    ]
+  }
+]
